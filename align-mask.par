@@ -1,0 +1,9 @@
+SEARCHBOX,i,h,30,,,"half width of search range"
+MAGFACTOR,i,h,100,,,"magnification factor for offset vectors"
+LAMFILE,s,h,"lamfile",,,"line list file"
+NAVER,i,h,1,,,"number of neighboring points to average"
+THRESHOLD,r,h,0.100000,,,"minimum flux ratio spot to background"
+SIGLIMIT,r,h,10.000000,,,"line rejection threshold"
+MAXFLUX,r,h,65000.000000,,,"maximum flux"
+WINDOWSIZE,r,h,5.000000,,,"width of PGPLOT window in inches"
+mode,s,h,"q1",,,

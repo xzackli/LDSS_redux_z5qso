@@ -1,0 +1,5 @@
+dewar,s,h,"SITE",,,"dewar name"
+speed,s,h,"fast",,,"readout speed"
+flat_file,s,h,"none",,,"flat field frame"
+bias_file,s,h,"none",,,"bias frame"
+mode,s,h,"q1",,,

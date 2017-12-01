@@ -1,0 +1,3 @@
+FLAT_FILE,f,h,"none",,,"flat field file name"
+OBSDEF,f,h,"LCdirect_IFU_N",,,"Observation definition file name"
+mode,s,h,"q1",,,

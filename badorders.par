@@ -1,0 +1,8 @@
+border,i,h,0,,,"width of border around spectral regions"
+linefile,s,h,"sky_lines_list",,,"2nd order line list"
+orders,s,h,"02",,,"orders to mask"
+hwidth,r,h,3.000000,,,"half-width of 2nd order lines"
+shuffle,i,h,0,,,"shuffle distance"
+lambda0,r,h,0.000000,,,"min lambda of zero order spectrum"
+lambda1,r,h,0.000000,,,"max lambda of zero order spectrum"
+mode,s,h,"q1",,,

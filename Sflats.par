@@ -1,0 +1,12 @@
+minlambda,r,h,0.000000,,,"min wavelength of extraction"
+maxlambda,r,h,0.000000,,,"max wavelength of extraction"
+telscale,r,h,2.899000,,,"telescope scale sec per mm"
+bias_file,s,h,"none",,,"bias level file"
+siglimit,r,h,4.000000,,,"CR rejection threshold in sigmas"
+noise,r,h,3.000000,,,"CCD read noise"
+gain,r,h,1.300000,,,"CCD gain"
+order,i,h,5,,,"order of flat intensity fit"
+fit_mode,s,h,"median",,,"method of spectrum fitting"
+med_box,i,h,100,,,"size of sky fit median box"
+shuffled,i,h,0,,,"number of pixels to shuffle data"
+mode,s,h,"q1",,,

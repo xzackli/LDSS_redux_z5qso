@@ -1,0 +1,11 @@
+dewar,s,h,"LDSS3-2",,,"dewar name"
+top,i,h,100,,,"noise reference size in pixels"
+intermediate,b,h,n,,,"output intermediate fits files"
+iterations,i,h,3,,,"number of passes"
+scale1,r,h,500,,,"smoothing pass 1"
+scale2,r,h,300,,,"smoothing pass 2"
+scale3,r,h,300,,,"smoothing pass 3"
+cut1,r,h,5.0,,,"clipping pass 1"
+cut2,r,h,3.0,,,"clipping pass 2"
+cut3,r,h,2.5,,,"clipping pass 3"
+mode,s,h,"q1",,,

@@ -1,0 +1,6 @@
+minlambda,r,h,4000.000000,,,"minimum wavelength"
+minpixl,i,h,100,,,"minimum # pixels/spectrum"
+maxlambda,r,h,9000.000000,,,"maximum wavelength"
+use_holes,b,h,y,,,"map holes as well as slits?"
+chipnum,i,h,1,,,"number of chips being used"
+mode,s,h,"q1",,,

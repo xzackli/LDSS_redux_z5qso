@@ -1,0 +1,7 @@
+bias_file,s,h,"none",,,"bias frame"
+gain1,r,h,0.720000,,,"chip 1 gain"
+gain2,r,h,0.760000,,,"chip2 gain"
+gain3,r,h,0.720000,,,"chip3 gain"
+gain4,r,h,0.760000,,,"chip4 gain"
+dewar,s,h,"LDSS3C-2",,,"dewar name"
+mode,s,h,"q1",,,
