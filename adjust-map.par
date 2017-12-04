@@ -1,6 +1,6 @@
 SEARCH_HEIGHT,i,h,10,,,"half height of search range"
 SEARCH_WIDTH,i,h,10,,,"half-width of search range"
-SLIT_WIDTH,i,h,6,,,"slit width"
+SLIT_WIDTH,i,h,4,,,"slit width"
 ORD_DISP,i,h,3,,,"slit order of dispersion error fit"
 ORD_SAG,i,h,2,,,"slit order of y-distortion error fit"
 ORD_TILT,i,h,1,,,"slit order of tilt error fit"
