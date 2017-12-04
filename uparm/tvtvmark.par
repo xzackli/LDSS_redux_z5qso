@@ -1,5 +1,5 @@
 frame,i,a,1,,16,"Default frame number for display"
-coords,f,a,"L3VPH_red.xy",,,"Input coordinate list"
+coords,f,a,"ccd0069.xy",,,"Input coordinate list"
 logfile,f,h,"",,,"Output log file"
 autolog,b,h,no,,,"Automatically log each marking command"
 outimage,f,h,"",,,"Output snapped image"
