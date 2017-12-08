@@ -1,4 +1,4 @@
-dewar,s,h,"SITE",,,"dewar name"
+dewar,s,h,"LDSS3",,,"dewar name"
 speed,s,h,"fast",,,"readout speed"
 flat_file,s,h,"none",,,"flat field frame"
 bias_file,s,h,"none",,,"bias frame"
