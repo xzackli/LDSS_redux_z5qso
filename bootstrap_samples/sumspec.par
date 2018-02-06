@@ -1,0 +1,6 @@
+clean,b,h,y,,,"remove cosmic rays"
+siglimit,r,h,4.500000,,,"CR rejection threshold in sigmas"
+both,b,h,n,,,"remove positive and negative deviations?"
+iterations,i,h,2,,,"iterations of CR removal"
+grow,i,h,0,,,"grow deleted region size"
+mode,s,h,"q1",,,
